@@ -1,0 +1,7 @@
+Gradient Color:
+Color1=c5227f
+Color2=750089
+Angle=-90
+--------------
+Background color=2a2541
+
